@@ -7,7 +7,7 @@
 		}
 
 		[System.STAThread]
-		static void Main()
+		private static void Main()
 		{
 			// **************************************************
 			System.Windows.Forms.Application.EnableVisualStyles();
